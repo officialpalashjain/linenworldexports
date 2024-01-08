@@ -1,0 +1,603 @@
+@media only screen and (min-width:980px) and (max-width:1260px) {
+.logo{width:136px;height:auto; padding-left:0;}
+.nav_menutop > ul > li > a{padding:0 2px;font-size:13px}
+.nav_menutop > ul > li{margin-left:2px}
+#dl-menu{top:-1px;height:1px}
+.sticky{position:fixed;top:0;height:auto;width:100%;animation-name:fadeInDown;animation-duration:1s;animation-fill-mode:both;z-index:460;padding-bottom:0;box-shadow:none;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#57306c',endColorstr='#57306c',GradientType=1);}
+.call01 {
+	font-size: 14px;
+	font-weight: 600;
+	padding: 0;
+	margin: 0px 0 0 0;
+	clear:both;
+}
+.nav_menutop > ul > li::before {
+	margin: 0 0 0 -13px;
+
+}
+.nav_menutop {
+	margin-right: 0;
+	margin-top: 8px;
+	margin-right: 0;
+	clear:both;
+}
+.logo {
+	margin-bottom:0;
+	float: left;
+	position: absolute;
+	margin-top:-8px;
+}
+.topsecond {
+    height: 46px;
+}
+.sticky .logo {
+	margin-top: 0;
+	width: 100px;
+	margin-top:-2px;
+}
+.sticky .nav_menutop {
+    margin-top: 16px;
+    margin-right: 10px;
+}
+.otherdevic{display:none;}
+.carousel-inner p {
+	color: #FFF;
+	text-shadow: none;
+	margin-top: 15px;
+	font-size: 15px;
+	line-height: 21px;
+	padding-bottom: 5px;
+}
+.carousel-inner p br{ display:none;}
+.carousel-inner h1 {
+	color: #fff !important;
+	font-size: 37px !important;
+	font-weight: 400 !important;
+	font-family: 'Euclid Circular A',sans-serif !important;
+	line-height: 36px !important;
+	text-shadow: 0 0 10px rgba(0,0,0,0.6);
+}
+.carousel-inner .ready {
+	font-size: 15px;
+}
+.bigheading {
+	font-size: 110px;
+}
+.propertyicons1 { margin-bottom:30px;}
+.propertyicons2 { margin-bottom:30px;}
+.propertyicons3 { margin-bottom:30px;}
+.propertyicons4 { margin-bottom:30px;}
+h1 {font-size: 47px;}
+.postinner h2 {
+	font-size: 20px;
+	line-height: 60px;
+}
+.postinner img{ margin:0 0 0 0;}
+.postinner {
+	padding: 7px 21px 0px;
+}
+.postinner img {
+	margin: -24px 0 18px 0;
+}
+.conp {
+	padding: 0;
+}
+footer {
+	font-size: 16px;
+	padding: 40px 0 0px;
+}
+.iconboxes { margin-bottom:30px;}
+.foolink li a {
+	font-size: 15px;
+}
+.foolink li a i { display:none;}
+
+
+
+
+
+
+
+
+
+
+}
+@media only screen and (min-width:768px) and (max-width:979px) {
+.logo{width:135px;height:auto; padding-left:0;}
+.nav_menutop > ul > li > a{padding:0 2px;font-size:13px}
+.nav_menutop > ul > li{margin-left:2px}
+#dl-menu{top:-1px;height:1px}
+.sticky{position:fixed;top:0;height:auto;width:100%;animation-name:fadeInDown;animation-duration:1s;animation-fill-mode:both;z-index:460;padding-bottom:0;box-shadow:none;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#57306c',endColorstr='#57306c',GradientType=1);}
+.topsecond {
+    height: 44px;
+}
+.call01 {
+	font-size: 14px;
+	font-weight: 600;
+	padding: 0;
+	margin: 0px 0 0 0;
+	clear:both;
+}
+.nav_menutop > ul > li::before {
+	margin: 0 0 0 -13px;
+
+}
+.nav_menutop {
+	margin-right: 0;
+	margin-top: 8px;
+	margin-right: 0;
+	clear:both;
+}
+.logo {
+	margin-bottom:0;
+	float: left;
+	position: absolute;
+	margin-top:-8px;
+}
+.sticky .logo {
+	margin-top: 0;
+	width: 100px;
+	margin-top:-8px;
+}
+.otherdevic{display:none;}
+.carousel-inner p {
+	color: #FFF;
+	text-shadow: none;
+	margin-top: 15px;
+	font-size: 15px;
+	line-height: 21px;
+	padding-bottom: 5px;
+}
+.carousel-inner p br{ display:none;}
+.carousel-inner h1 {
+	color: #fff !important;
+	font-size: 37px !important;
+	font-weight: 400 !important;
+	font-family: 'Euclid Circular A',sans-serif !important;
+	line-height: 36px !important;
+	text-shadow: 0 0 10px rgba(0,0,0,0.6);
+}
+.carousel-inner .ready {
+	font-size: 15px;
+}
+.bigheading {
+	font-size: 110px;
+}
+.propertyicons1 { margin-bottom:30px;}
+.propertyicons2 { margin-bottom:30px;}
+.propertyicons3 { margin-bottom:30px;}
+.propertyicons4 { margin-bottom:30px;}
+h1 {font-size: 47px;}
+.postinner h2 {
+	font-size: 20px;
+	line-height: 60px;
+}
+.postinner img{ margin:0 0 0 0;}
+.postinner {
+	padding: 7px 21px 0px;
+}
+.postinner img {
+	margin: -24px 0 18px 0;
+}
+.conp {
+	padding: 0;
+}
+footer {
+	font-size: 16px;
+	padding: 40px 0 0px;
+}
+.iconboxes { margin-bottom:30px;}
+.foolink li a {
+	font-size: 15px;
+}
+.foolink li a i { display:none;}
+}
+@media only screen and (min-width:320px) and (max-width:767px) {
+#dl-menu{display:block;z-index:50}
+.sticky #dl-menu{top:7px;display:block}
+.sticky .cartar{display:none}
+.nav_menutop{display:none}
+.homebt{display:none}
+#dl-menu{top:-48px;height:1px}
+.indflag{margin:26px 15px 0 0;float:right}
+.call01{font-size:17px;font-weight:600;padding:0 0 0 15px;margin:5px 0 0;color:#000;float:right;font-family:'Open Sans',sans-serif;width:100%;text-align:left;display:none}
+.enquiryarea{margin-top:0;position:relative;height:auto}
+.otherlink li{width:100%;height:auto;padding:0;margin:0 auto 0 0;display:inline-block;float:left;display:block}
+.enhead{margin:15px 0 0}
+#dl-menu {
+	top: 0px;
+	height: 63px;
+	float: right;
+	position:absolute;
+	float:right;
+	right:8px;
+	top:8px;
+	
+}
+
+.dl-menuwrapper .dl-menu {
+	margin: 5px 0 0 8px;
+}
+
+.sticky{position:fixed;top:0;width:100%;animation-name:fadeInDown;animation-duration:1s;animation-fill-mode:both;z-index:460;padding-bottom:0;box-shadow:none;}
+
+
+.carousel-inner h1{line-height:25px!important}
+header {padding-bottom: 0;}
+
+
+
+.sticky .logo{width:104px;}
+.logo{width:104px;}
+.cot-bt {
+	border: 2px solid #a4cae9;
+	border-radius: 50px;
+	padding: 2px 18px;
+	margin: 0 0 0 25px;
+	font-size: 14px;
+	display:none;
+}
+.topfirst {
+	padding: 4px 0 4px 0;
+}
+.tcall-bt {
+	padding: 1px 8px;
+	margin: 4px 0 0 0;
+	font-size: 13px;
+}
+.sticky .topsecond {
+	height: 60px;
+}
+.topsecond {
+	height: 60px;
+}
+.sticky .topsecond {
+	height: 60px;
+}
+.sticky .marblue {
+	background-color:#39597e;
+}
+.sticky .topfirst {
+  padding: 10px 0 4px 0;
+}
+
+
+.fourroundbox {
+	padding: 30px 0 30px 0;
+}
+.adp {
+	margin: 0 0 6px 0;
+	width: 225px;
+}
+.carousel-inner h1 {
+	font-size: 22px !important;
+	padding: 0 0 5px !important;
+	line-height: 25px !important;
+}
+.carousel-inner p {
+	margin-top: 3px;
+	font-size: 13px;
+	line-height: 14px;
+	padding-bottom: 10px;
+	display:none;
+}
+.carousel-inner .ready {
+	border-radius: 3px;
+	font-size: 13px;
+	padding: 3px 12px;
+	margin: 0 2px;
+	display:none;
+}
+.carousel-caption {
+	bottom: 24px;
+}
+.greysection {
+	background: url(../images/pro-range-bg.jpg);
+	padding: 30px 0 35px;
+}
+h1 {
+	padding: 0 0 26px;
+	font-size: 30px;
+}
+.prob h3 {
+	margin-bottom:20px;
+}
+.blueline-left { display:none;}
+.blueline-right { display:none;}
+.shippingarea {padding: 30px 0 30px 0;}
+.shipicon {
+	width: 60px;
+	height: 60px;
+	border-radius: 6px;
+}
+.shipicon i {
+	font-size: 40px;
+}
+.shipcont {
+	margin-left: 81px;
+	margin-top: -61px;
+	margin-bottom: 20px;
+}
+.sipp {
+	font-size: 15px;
+	line-height: 24px;
+}
+.formbg {
+	padding: 35px 0 40px;
+}
+.fcontlogo {
+	padding: 17px 0 40px 0;
+	margin: 0;
+	max-width: 264px;
+	width: 264px;
+}
+.contfr {
+	padding: 24px 15px 25px 15px;
+	margin: 0 0 0 0;
+	border-radius: 12px;
+	box-shadow: 5px 5px 40px 0 rgba(0,0,0,0.25);
+}
+.contfr p {
+	font-size: 16px;
+}
+.frinput {
+	height: 50px;
+	padding: 0 0 0 17px;
+	margin: 2px 0 11px;
+	font-size: 16px;
+	border: 2px solid #dfdfdf;
+}
+.frsubmit {
+	padding: 15px 0;
+	font-size: 21px;
+	font-weight: bold;
+	margin-top: 5px;
+}
+footer {
+	font-size: 15px;
+	padding: 30px 0 30px 0;
+}
+h3 {
+	font-size: 24px;
+	padding: 0 0 10px;
+}
+.foolink {margin: 0 0 25px 0;}
+
+.tab1{}
+.tab1 td{ display:block !important; min-height:30px !important;}
+.tab1 .img1{ width:35px; margin-right:8px; margin-top:18px; margin-bottom:4px;}
+.tab1 td{ padding-bottom:0px;}
+.flwlogo {
+	padding-left: 0;
+	float: left;
+	margin: 15px 0 0 0;
+	width: 240px;
+}
+.foocopyirght {
+	padding: 14px 24px;
+	margin: 18px 0 47px 0;
+	font-size: 15px;
+	line-height: 25px;
+}
+.indiv{padding:30px 0 30px 0;}
+h2{font-size:23px;}
+.indiv{ border-bottom:1px solid #CCCCCC; background: rgb(244,244,244);
+background: linear-gradient(0deg, rgba(244,244,244,1) 0%, rgba(255,255,255,1) 10%);
+padding-top:60px;
+padding-bottom:60px;
+}
+.whysdl {
+    padding: 20px 20px 0 15px;
+}
+.shippingarea .shipcont h2 {
+  font-size: 22px;
+}
+}
+@media only screen and (max-width:320px) {
+
+#dl-menu{display:block;z-index:50}
+.sticky #dl-menu{top:7px;display:block}
+.sticky .cartar{display:none}
+.nav_menutop{display:none}
+.homebt{display:none}
+#dl-menu{top:-48px;height:1px}
+.indflag{margin:26px 15px 0 0;float:right}
+.call01{font-size:17px;font-weight:600;padding:0 0 0 15px;margin:5px 0 0;color:#000;float:right;font-family:'Open Sans',sans-serif;width:100%;text-align:left;display:none}
+.enquiryarea{margin-top:0;position:relative;height:auto}
+.otherlink li{width:100%;height:auto;padding:0;margin:0 auto 0 0;display:inline-block;float:left;display:block}
+.enhead{margin:15px 0 0}
+#dl-menu {
+	top: 0px;
+	height: 63px;
+	float: right;
+	position:absolute;
+	float:right;
+	right:8px;
+	top:8px;
+	
+}
+
+.dl-menuwrapper .dl-menu {
+	margin: 5px 0 0 8px;
+}
+
+.sticky{position:fixed;top:0;width:100%;animation-name:fadeInDown;animation-duration:1s;animation-fill-mode:both;z-index:460;padding-bottom:0;box-shadow:none;}
+
+
+.carousel-inner h1{line-height:25px!important}
+header {padding-bottom: 0;}
+
+
+
+.sticky .logo{width:104px;}
+header #myHeader.sticky .logo {
+  width: 104px;
+}
+.logo{width:104px;}
+header #myHeader .logo {
+  width: 104px;
+}
+.cot-bt {
+	border: 2px solid #a4cae9;
+	border-radius: 50px;
+	padding: 2px 18px;
+	margin: 0 0 0 25px;
+	font-size: 14px;
+	display:none;
+}
+.topfirst {
+	padding: 4px 0 4px 0;
+}
+.tcall-bt {
+	padding: 1px 8px;
+	margin: 4px 0 0 0;
+	font-size: 13px;
+}
+.sticky .topsecond {
+	height: 60px;
+}
+.topsecond {
+	height: 60px;
+}
+.sticky .topsecond {
+	height: 60px;
+}
+.sticky .marblue {
+	background-color:#39597e;
+}
+.sticky .topfirst {
+  padding: 10px 0 4px 0;
+}
+
+
+.fourroundbox {
+	padding: 30px 0 30px 0;
+}
+.adp {
+	margin: 0 0 6px 0;
+	width: 225px;
+}
+.carousel-inner h1 {
+	font-size: 22px !important;
+	padding: 0 0 5px !important;
+	line-height: 25px !important;
+}
+.carousel-inner p {
+	margin-top: 3px;
+	font-size: 13px;
+	line-height: 14px;
+	padding-bottom: 10px;
+	display:none;
+}
+.carousel-inner .ready {
+	border-radius: 3px;
+	font-size: 13px;
+	padding: 3px 12px;
+	margin: 0 2px;
+	display:none;
+}
+.carousel-caption {
+	bottom: 24px;
+}
+.greysection {
+	background: url(../images/pro-range-bg.jpg);
+	padding: 30px 0 35px;
+}
+h1 {
+	padding: 0 0 26px;
+	font-size: 30px;
+}
+.prob h3 {
+	margin-bottom:20px;
+}
+.blueline-left { display:none;}
+.blueline-right { display:none;}
+.shippingarea {padding: 30px 0 30px 0;}
+.shipicon {
+	width: 60px;
+	height: 60px;
+	border-radius: 6px;
+}
+.shipicon i {
+	font-size: 40px;
+}
+.shipcont {
+	margin-left: 81px;
+	margin-top: -61px;
+	margin-bottom: 20px;
+}
+.sipp {
+	font-size: 15px;
+	line-height: 24px;
+}
+.formbg {
+	padding: 35px 0 40px;
+}
+.fcontlogo {
+	padding: 17px 0 40px 0;
+	margin: 0;
+	max-width: 264px;
+	width: 264px;
+}
+.contfr {
+	padding: 24px 15px 25px 15px;
+	margin: 0 0 0 0;
+	border-radius: 12px;
+	box-shadow: 5px 5px 40px 0 rgba(0,0,0,0.25);
+}
+.contfr p {
+	font-size: 16px;
+}
+.frinput {
+	height: 50px;
+	padding: 0 0 0 17px;
+	margin: 2px 0 11px;
+	font-size: 16px;
+	border: 2px solid #dfdfdf;
+}
+.frsubmit {
+	padding: 15px 0;
+	font-size: 21px;
+	font-weight: bold;
+	margin-top: 5px;
+}
+footer {
+	font-size: 15px;
+	padding: 30px 0 30px 0;
+}
+h3 {
+	font-size: 24px;
+	padding: 0 0 10px;
+}
+.foolink {margin: 0 0 25px 0;}
+
+.tab1{}
+.tab1 td{ display:block !important; min-height:30px !important;}
+.tab1 .img1{ width:35px; margin-right:8px; margin-top:18px; margin-bottom:4px;}
+.tab1 td{ padding-bottom:0px;}
+.flwlogo {
+	padding-left: 0;
+	float: left;
+	margin: 15px 0 0 0;
+	width: 240px;
+}
+.foocopyirght {
+	padding: 14px 24px;
+	margin: 18px 0 47px 0;
+	font-size: 15px;
+	line-height: 25px;
+}
+.indiv{padding:30px 0 30px 0;}
+h2{font-size:23px;}
+.indiv{ border-bottom:1px solid #CCCCCC; background: rgb(244,244,244);
+background: linear-gradient(0deg, rgba(244,244,244,1) 0%, rgba(255,255,255,1) 10%);
+padding-top:30px;
+padding-bottom:60px;
+}
+.whysdl {
+    padding: 20px 20px 0 15px;
+}
+.shippingarea .shipcont h2 {
+  font-size: 22px;
+}
+}
